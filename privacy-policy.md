@@ -1,0 +1,1 @@
+The family meal planner app is for personal family use, only accesses one Pinterest board and pin data for personal meal planning purposes. The app doesn't share data with third parties, and all data retrieved from Pinterest is stored in a private OneDrive account.
